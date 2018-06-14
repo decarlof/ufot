@@ -1,6 +1,6 @@
 python
 numpy
-pyqt4
+pyqt5
 dxchange
 tomopy
 pyopengl

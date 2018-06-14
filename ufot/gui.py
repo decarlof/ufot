@@ -13,7 +13,7 @@ import ufot.reco as reco
 from argparse import ArgumentParser
 import numpy as np
 from contextlib import contextmanager
-from PyQt4 import QtGui, QtCore, uic
+from PyQt5 import QtGui, QtCore, uic
 
 
 LOG = logging.getLogger(__name__)

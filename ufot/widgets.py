@@ -2,7 +2,7 @@ import pyqtgraph as pg
 import pyqtgraph.opengl as gl
 import logging
 import numpy as np
-from PyQt4 import QtGui, QtCore
+from PyQt5 import QtGui, QtCore
 import dxchange as dx
 import ufot.util as util
 import tifffile
